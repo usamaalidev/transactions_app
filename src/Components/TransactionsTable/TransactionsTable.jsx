@@ -1,6 +1,6 @@
 import { useSelector } from "react-redux";
 import Filter from "../Filter/Filter.jsx";
-import { Link, useParams } from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { PDFDownloadLink } from "@react-pdf/renderer";
 import Report from "../report/Report.jsx";
@@ -10,10 +10,10 @@ export default function TransactionsTable() {
   );
 
   const [paginationArr, setPaginationArr] = useState([]);
-
   const { page = 1 } = useParams();
-
   const subIndex = 10;
+  const navigate = useNavigate();
+
   useEffect(() => {
     const paginationArr = transactions.reduce((acc, element, index) => {
       const subArrayIndex = Math.trunc(index / subIndex);
@@ -25,7 +25,8 @@ export default function TransactionsTable() {
     }, []);
 
     setPaginationArr(paginationArr);
-  }, []);
+    navigate("/1");
+  }, [transactions]);
 
   return (
     <>
@@ -71,7 +72,7 @@ export default function TransactionsTable() {
                       <Link to={`/transactions/${transaction.sender._id}`}>
                         {transaction.sender.name}
                       </Link>
-                   </div>
+                    </div>
                   </td>
 
                   <td className="p-4 text-center ">
