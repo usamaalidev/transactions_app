@@ -9,12 +9,13 @@ const transactionsSlice = createSlice({
 
   reducers: {
     filter: function (state, action) {
-      const filteredData = data.transactions.filter((object) => {
-        if (!action.payload.recipientName && !action.payload.amount) {
-          state.transactions = data.transactions;
-          return;
-        }
 
+      if (!action.payload.recipientName && !action.payload.amount) {
+        state.transactions = data.transactions;
+        return;
+      }
+
+      const filteredData = data.transactions.filter((object) => {
         if (action.payload.recipientName && action.payload.amount) {
           return (
             object.sender.name
