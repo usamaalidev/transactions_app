@@ -1,0 +1,342 @@
+{
+  "data": [
+    {
+      "name": "Usama Ali",
+      "id": "654223199109142856",
+      "avatar": "https://i.ibb.co/72x4nGT/11.png",
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 280
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 1180
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 1340
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 90
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 345
+        }
+      ],
+      "total_amount": 3235
+    },
+
+    {
+      "name": "Merna Waleed",
+      "id": "440513193106072454",
+      "avatar": "https://i.ibb.co/hBNkJzF/9.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 1170
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 4180
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 430
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 760
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 0
+        }
+      ],
+      "total_amount": 6540
+    },
+
+    {
+      "name": "Khaled Ali",
+      "id": "220821193309128459",
+      "avatar": "https://i.ibb.co/9sCg2cM/10.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 2520
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 170
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 610
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 1565
+        }
+      ],
+      "total_amount": 4865
+    },
+
+    {
+      "name": "Omar Ali",
+      "id": "130923193806190779",
+      "avatar": "https://i.ibb.co/LzzMV8B/4.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 1020
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 2460
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 280
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 760
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 0
+        }
+      ],
+      "total_amount": 4520
+    },
+
+    {
+      "name": "Aya Ayman",
+      "id": "520203191204138139",
+      "avatar": "https://i.ibb.co/mFhHQzh/8.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 2400
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 360
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 640
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 395
+        }
+      ],
+      "total_amount": 3795
+    },
+
+    {
+      "name": "Farha",
+      "id": "511802195110134051",
+      "avatar": "https://i.ibb.co/CJjs6zy/2.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 3820
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 170
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 115
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 0
+        }
+      ],
+      "total_amount": 4105
+    },
+
+    {
+      "name": "Mohamed Abdo",
+      "id": "131127201708064832",
+      "avatar": "https://i.ibb.co/PGFnvBd/6.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 1125
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 500
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 1170
+        }
+      ],
+      "total_amount": 2795
+    },
+
+    {
+      "name": "Ahmed Gamal",
+      "id": "211382190304104054",
+      "avatar": "https://i.ibb.co/SNcxc2N/3.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 2460
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 0
+        }
+      ],
+      "total_amount": 2460
+    },
+
+    {
+      "name": "Hossam Rashad",
+      "id": "511403190311199697",
+      "avatar": "https://i.ibb.co/ph7KP35/5.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 280
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 180
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 0
+        }
+      ],
+      "total_amount": 460
+    },
+
+    {
+      "name": "Eman Zayed",
+      "id": "541503190913198672",
+      "avatar": "https://i.ibb.co/wNsHDBB/7.png",
+
+      "transactions": [
+        {
+          "date": "1-10-2023",
+          "amount": 270
+        },
+        {
+          "date": "2-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "3-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "4-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "5-10-2023",
+          "amount": 0
+        },
+        {
+          "date": "6-10-2023",
+          "amount": 0
+        }
+      ],
+      "total_amount": 270
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f4f5f9;
+}
+
+.active {
+  background-color: #312e81;
+  color: #fff;
+}
+
+.text-completed {
+  color: #54b435;
+}
+.text-pending {
+  color: #ff944a;
+}
+.text-cancelled {
+  color: #f24443;
+}
+
+.border-completed {
+  border-color: #54b435;
+}
+.border-pending {
+  border-color: #ff944a;
+}
+.border-cancelled {
+  border-color: #f24443;
+}
